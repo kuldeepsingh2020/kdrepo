@@ -1,2 +1,3 @@
 This is a kk file.
 Testing of Rebase tecnich.
+Adding one line for check remote rebase.
